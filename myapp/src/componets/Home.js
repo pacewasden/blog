@@ -1,9 +1,12 @@
+import background from '../pictures/background.png';
+import Folder from './Folder.js';
 function Home(){
     return (
         <div>
-            <p>
-                This is going to be a blog to show what I learn through the nights while studying
-            </p>
+            <img src={background} className='background' alt='background'/>
+            <div>
+                <Folder/>
+            </div>
         </div>
 
     )
