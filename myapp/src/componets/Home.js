@@ -4,7 +4,7 @@ function Home(){
     return (
         <div>
             <img src={background} className='background' alt='background'/>
-            <div>
+            <div className='Folder'>
                 <Folder/>
             </div>
         </div>

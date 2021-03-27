@@ -1,0 +1,10 @@
+.background{
+    position: sticky;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.Folder{
+    border-style: solid;
+    border-color: blue;
+}

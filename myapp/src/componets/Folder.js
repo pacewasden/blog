@@ -1,4 +1,5 @@
-import folder from '../pictures/folder.png'
+import folder from '../pictures/folder.png';
+import '../style/Folder.css';
 function Folder(){
     return (
         <div>
