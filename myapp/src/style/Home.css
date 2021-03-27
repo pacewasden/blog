@@ -1,9 +1,12 @@
+body{
+        background-image:url('../pictures/background.png') ;
+}
 .background{
     position: fixed;
     top: 0;
     left: 0;
 }
-#folder{
+.folder{
     border-style: solid;
     border-color: blue;
     height: 100px;
