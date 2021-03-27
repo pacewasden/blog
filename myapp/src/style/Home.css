@@ -1,10 +1,11 @@
 .background{
-    position: sticky;
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
 }
-.Folder{
+#folder{
     border-style: solid;
     border-color: blue;
+    height: 100px;
+    width: 100px;
 }
